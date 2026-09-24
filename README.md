@@ -36,10 +36,6 @@ ProjectSettings/  # Project-level Unity configuration
 README.md         # Project documentation
 ~~~
 
-## Portfolio context
-
-This is a supporting C#/Unity project demonstrating software development outside the web and AI stack. It is intentionally kept separate from the core AI/software-engineering portfolio projects.
-
 ## License
 
 Apache License 2.0.
